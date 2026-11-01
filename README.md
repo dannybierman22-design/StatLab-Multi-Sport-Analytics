@@ -35,8 +35,3 @@ This project currently uses synthetic 2025 demonstration data. The statistics do
 - `sql/` — database creation, sample data, and SQL views
 - `screenshots/` — dashboard previews
 - `data/` — source datasets, when applicable
-
-## Author
-
-Daniel Bierman  
-Computer Information Systems and Business Analytics student at James Madison University
